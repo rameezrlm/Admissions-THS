@@ -1,0 +1,6 @@
+{
+  "name": "Taleem-o-Hunar Society Test Portal",
+  "description": "Official online test entry portal for Taleem-o-Hunar Society with candidate guidelines and instant test launch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
